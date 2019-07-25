@@ -1,5 +1,5 @@
 # CarPicker
-Helps users choose vehicles fitting their criteria.
+## Helps users choose vehicles fitting their criteria.
 
 This is a website design to help users pick appropriate vehicles based on thier priorities and criteria.
 
